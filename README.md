@@ -1,0 +1,2 @@
+# lomba
+pala bapak kao
