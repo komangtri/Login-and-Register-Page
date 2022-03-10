@@ -431,7 +431,7 @@ form {
 
     .container.register-mode::before {
         transform: translate(-50%, 100%);
-        bottom: 32%;
+        bottom: 36%;
         right: initial;
     }
 
