@@ -1,2 +1,1 @@
-# lomba
-pala bapak kao
+# Login and Register Page
